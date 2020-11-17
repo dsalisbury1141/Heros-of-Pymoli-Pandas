@@ -1,4 +1,4 @@
-# Pandas-Challenge
+# Heros-of-Pymoli using Python Pandas
 
 Observations:
 1. There were multiple purchases by the same screen names
