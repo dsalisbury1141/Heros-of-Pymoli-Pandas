@@ -12,5 +12,6 @@ Observations:
 7. Count of Unique Values	Average Purchase Price	Total Number of Purchases	Total Revenue -  0	179	$3.05	780	2379.77
 
 
-
+How to run my code: 
+1. open Jupyter Notebook run code form beginning to see data frames and plots
 
