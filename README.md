@@ -13,5 +13,5 @@ Observations:
 
 
 How to run my code: 
-1. open Jupyter Notebook run code form beginning to see data frames and plots
+1. Open Jupyter Notebook run code from beginning to see data frames and plots
 
